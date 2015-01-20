@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("tlo2.jpg");
+	background-size: cover;
+}	
+img {
+	width: 250px;
+	height: 150px;
+	margin-left: 10px;
+}
+
+#map {
+	width: 75%;
+	height: 81%;
+	left: 300px;
+	position:absolute;
+	border: 5px solid #064D8D ;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+.przycisk {
+	border: 2px solid #064D8D;
+	border-radius: 7px;
+	color: #FF0000;
+	display: block;
+	font-family: Calibri, sans-serif;
+	font-size: 20px;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+	width:210px;
+	background: white;
+	font-weight:bold;
+	text-shadow:10px 5px 10px #FF0000;
+	cursor:pointer;
+	margin-left: 40px;
+	line-height: 35px;
+}
+
+#logo {
+	color: #FF0000 ;
+	font-family: Calibri;
+	font-size: 60px;
+	margin-left: 25px;
+	width: 800px;
+	font-weight: bold;
+}
+	
+.stopka 
+{  
+	position: relative;
+	height: 50px;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #064D8D ;
+	text-decoration: none;
+}	
